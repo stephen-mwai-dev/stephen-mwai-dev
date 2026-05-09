@@ -27,10 +27,10 @@ About Me
 ​🔭 Currently building: Robust full-stack solutions and specialized data management portals.
 ​🌱 Currently learning: Advanced React patterns and seamless database integration.
 ​🤝 Looking to collaborate on: Beginner-friendly open-source projects or data-driven applications.
-
 ​💬 Ask me about: Web development, data gathering, or my journey into tech!
 
 ​📫 Let's Connect
+
 Email: stephenmwai71@gmail.com
 
 LinkedIn: http://www.linkedin.com/in/stephen-njuguna-304bb4194
