@@ -8,14 +8,14 @@ About Me
 
 ​🛠️ Featured Projects
 
-​🏫 Olivine School Website: A comprehensive management portal I am currently building to streamline educational institutional needs and data tracking.
-
-​🌍 Wonderscape Website: A responsive travel and tourism portal designed to showcase the beauty of Kenya with a focus on high-quality user experience.
-
-​🌤️ Weather Application:A dynamic utility app that integrates external APIs to provide real-time weather updates.
+​🌤️ Weather Application:A dynamic utility app that integrates external APIs to provide real-time weather updates. Demo : https://stephen-mwai-dev.github.io/iyf-s10-week-06-stephen-mwai-dev/
 
 ​📝 Professional To-Do App: A clean, functional productivity tool demonstrating state management and local data persistence.
-​...and more professional projects currently in development!
+​...and more professional projects currently in development! Demo: https://stephen-mwai-dev.github.io/iyf-s10-week-07-stephen-mwai-dev/
+
+🏫 Olivine School Website: A comprehensive management portal I am currently building to streamline educational institutional needs and data tracking.
+
+​🌍 Wonderscape Website: A responsive travel and tourism portal designed to showcase the beauty of Kenya with a focus on high-quality user experience.
 
 ​🚀 Tech Stack & Skills
 ​
