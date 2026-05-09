@@ -1,4 +1,5 @@
 Hi there, I'm Stephen Mwai 👋
+About Me
 ​Full-Stack Developer | Data Enthusiast | Tech Educator
 ​I’m on a mission to drive digital transformation through code. Currently, I'm mastering modern Frontend Development (React) while building robust Backend systems (Node.js, Express, MongoDB). My unique edge lies in my deep interest in Artificial Intelligence and Data Analytics—I don't just want to write code; I want to understand the data insights behind it.
 
