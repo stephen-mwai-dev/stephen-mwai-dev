@@ -1,23 +1,31 @@
-# Hi, I'm Stephen Mwai Njuguna 👋
+Hi there, I'm Stephen Mwai 👋
+​Full-Stack Developer | Data Enthusiast | Tech Educator
+​I’m on a mission to drive digital transformation through code. Currently, I'm mastering modern Frontend Development (React) while building robust Backend systems (Node.js, Express, MongoDB). My unique edge lies in my deep interest in Artificial Intelligence and Data Analytics—I don't just want to write code; I want to understand the data insights behind it.
 
-## About Me
-- 🌱 I'm currently learning Frontend Development (HTML, CSS, JavaScript) and preparing for Backend development.
-- 👨‍💻 I'm deeply interested in Data Analytics and Artificial Intelligence.
-- 🤝 I'm looking to collaborate on beginner-friendly open source projects.
-- ⚡ Fun fact: I'm on a journey to become a data analyst and full-stack developer with a focus on AI.
+​🛠️ Featured Projects
+​🏫 Olivine School Website: A comprehensive management portal I am currently building to streamline educational institutional needs and data tracking.
 
-## 🛠️ Skills I'm Building
-- Git & GitHub
-- HTML5
-- CSS3
-- JavaScript 
-- Data Analytics ( Excel, SQL, PowerBI, Python)
-- SQL (for Databases)
+​🌍 Wonderscape Website: A responsive travel and tourism portal designed to showcase the beauty of Kenya with a focus on high-quality user experience.
 
-## 📂 Current Projects
-https://github.com/stephen-mwai-dev — The page you are looking at right now! My personal GitHub landing page.
+​🌤️ Weather Application:A dynamic utility app that integrates external APIs to provide real-time weather updates.
 
-## 📫 How to Reach Me
-- Email: stephenmwai71@gmail.com
-- LinkedIn: http://www.linkedin.com/in/stephen-njuguna-304bb4194
-- GitHub: https://github.com/stephen-mwai-dev
+​📝 Professional To-Do App: A clean, functional productivity tool demonstrating state management and local data persistence.
+​...and more professional projects currently in development!
+
+​🚀 Tech Stack & Skills
+​Frontend: HTML5, CSS3, JavaScript, React
+​Backend: Node.js, Express, RESTful APIs, JWT Auth
+​Databases: MongoDB, SQL
+​Data & Tools: Python, PowerBI, Git/GitHub, VS Code
+
+​📈 What I'm Up To
+​🔭 Currently building: Robust full-stack solutions and specialized data management portals.
+​🌱 Currently learning: Advanced React patterns and seamless database integration.
+​🤝 Looking to collaborate on: Beginner-friendly open-source projects or data-driven applications.
+
+​💬 Ask me about: Web development, data gathering, or my journey into tech!
+
+​📫 Let's Connect
+​LinkedIn: Stephen Njuguna
+​Email: stephenmwai71@gmail.com
+​Portfolio:
