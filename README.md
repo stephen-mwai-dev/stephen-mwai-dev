@@ -4,7 +4,7 @@ About Me
 
 ​Full-Stack Developer | Data Enthusiast | Tech Educator
 
-​I’m on a mission to drive digital transformation through code. Currently, I'm mastering modern Frontend Development (React) while building robust Backend systems (Node.js, Express, MongoDB). My unique edge lies in my deep interest in Artificial Intelligence and Data Analytics—I don't just want to write code; I want to understand the data insights behind it.
+​I’m on a mission to drive digital transformation through code. Currently, I'm mastering modern Frontend Development (React) while building robust Backend systems (Node.js, Express, MongoDB). My unique edge lies in my deep interest in Artificial Intelligence and Data Analytics.
 
 ​🛠️ Featured Projects
 
@@ -32,8 +32,11 @@ About Me
 
 ​📫 Let's Connect
 Email: stephenmwai71@gmail.com
+
 LinkedIn: http://www.linkedin.com/in/stephen-njuguna-304bb4194
+
 GitHub: https://github.com/stephen-mwai-dev)
+
 Portfolio: https://stephen-mwai-dev.github.io/iyf-s10-week-01-revision2-stephen-mwai-dev/#
 
 ​
