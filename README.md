@@ -31,5 +31,5 @@ About Me
 ​
 Email: stephenmwai71@gmail.com
 ​
-[Portfolio](https://stephen-mwai-dev.github.io/iyf-s10-week-01-revision2-stephen-mwai-dev/#)
+Portfolio https://stephen-mwai-dev.github.io/iyf-s10-week-01-revision2-stephen-mwai-dev/#
 
