@@ -18,18 +18,24 @@ About Me
 ​...and more professional projects currently in development!
 
 ​🚀 Tech Stack & Skills
-​Frontend: HTML5, CSS3, JavaScript, React
+​
+Frontend: HTML5, CSS3, JavaScript, React
 ​Backend: Node.js, Express, RESTful APIs, JWT Auth
 ​Databases: MongoDB, SQL
 ​Data & Tools: Python, PowerBI, Git/GitHub, VS Code
 
 ​📈 What I'm Up To
-​🔭 Currently building: Robust full-stack solutions and specialized data management portals.
-​🌱 Currently learning: Advanced React patterns and seamless database integration.
-​🤝 Looking to collaborate on: Beginner-friendly open-source projects or data-driven applications.
-​💬 Ask me about: Web development, data gathering, or my journey into tech!
 
-​📫 Let's Connect
+​🔭 Currently building: Robust full-stack solutions and specialized data management portals.
+​
+🌱 Currently learning: Advanced React patterns and seamless database integration.
+​
+🤝 Looking to collaborate on: Beginner-friendly open-source projects or data-driven applications.
+​
+💬 Ask me about: Web development, data gathering, or my journey into tech!
+
+​
+📫 Let's Connect
 
 Email: stephenmwai71@gmail.com
 
