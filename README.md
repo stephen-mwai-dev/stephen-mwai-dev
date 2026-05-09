@@ -43,6 +43,6 @@ LinkedIn: http://www.linkedin.com/in/stephen-njuguna-304bb4194
 
 GitHub: https://github.com/stephen-mwai-dev)
 
-Portfolio: https://stephen-mwai-dev.github.io/iyf-s10-week-01-revision2-stephen-mwai-dev/#
+Portfolio: https://stephen-mwai-dev.github.io/iyf-s10-week-02-stephen-mwai-dev/
 
 ​
