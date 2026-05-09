@@ -28,6 +28,8 @@ About Me
 
 ​📫 Let's Connect
 ​LinkedIn: Stephen Njuguna
-​Email: stephenmwai71@gmail.com
-​Portfolio: https://stephen-mwai-dev.github.io/iyf-s10-week-01-revision2-stephen-mwai-dev/#
+​
+Email: stephenmwai71@gmail.com
+​
+Portfolio: https://stephen-mwai-dev.github.io/iyf-s10-week-01-revision2-stephen-mwai-dev/#
 
