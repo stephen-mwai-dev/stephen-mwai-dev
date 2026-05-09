@@ -27,8 +27,11 @@ About Me
 ​💬 Ask me about: Web development, data gathering, or my journey into tech!
 
 ​📫 Let's Connect
-​Email: stephenmwai71@gmail.com
+
+📫 How to Reach Me
+Email: stephenmwai71@gmail.com
 LinkedIn: http://www.linkedin.com/in/stephen-njuguna-304bb4194
-GitHub: https://github.com/stephen-mwai-dev
-Portfolio : https://stephen-mwai-dev.github.io/iyf-s10-week-01-revision2-stephen-mwai-dev/#
+GitHub: https://github.com/stephen-mwai-dev)
+
+​
 
